@@ -6,6 +6,7 @@ Repos on 3 faili mida on vaja vastama:</br>
   Versioonihaldussüsteemi kohta küsimusega fail</br>
   Eriala kohta küsimusega fail</br>
 
+Iga küsimuse järel teeme commit'i.
 
 <a href="#readme-top">Ülesse</a>
 
