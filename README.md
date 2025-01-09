@@ -12,4 +12,5 @@ Repos on 3 faili mida on vaja vastama:</br>
 Vaata ka minu konspekti WP-protfoolios:
 <a href="https://anastassiakostjuk24.thkit.ee/wp/" target="_blank">WP link.</a></br>
 This site was built using [GitHub Pages](https://pages.github.com/).
-![pilt](https://github.com/user-attachments/assets/b333e9c4-0827-4652-b0d4-f8f7b28b7bab)
+![_________ ____________ __-________________________ _______ 1](https://github.com/user-attachments/assets/a0fa6246-e42e-40e7-962f-41adce927f09)
+
