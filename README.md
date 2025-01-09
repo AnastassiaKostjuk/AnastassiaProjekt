@@ -1,7 +1,7 @@
 # TA GIT ülesanded
 <a name="readme-top"></a>
 ## TODO list - Ülesanne koostamine ja readme faili loomine
-Repos on 3 faili mida on vaja vastama:</br>
+_ _ Repos on 3 faili mida on vaja vastama:</br>
   Projektijuhtimise küsimustega fail</br>
   Versioonihaldussüsteemi kohta küsimusega fail</br>
   Eriala kohta küsimusega fail</br>
