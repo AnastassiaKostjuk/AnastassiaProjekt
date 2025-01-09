@@ -1,16 +1,9 @@
 # TA GIT ülesanded
 <a name="readme-top"></a>
-## TODO list - mida vaja projektis teha
-Arvestuse saamiseks on vaja teha:
-* Kõik GIT ülesandeid
-* Add
-* Commit
-* Push
-```
-git add .
-git commit -a -m "commit sisu"
-git push
-```
+## TODO list - Ülesanne koostamine ja readme faili loomine
+3 faili:
+Projektijuhtimise küsimustega - 
+
 <a href="#readme-top">Ülesse</a>
 
 Vaata ka minu konspekti WP-protfoolios:
