@@ -2,9 +2,9 @@
 <a name="readme-top"></a>
 ## TODO list - Ülesanne koostamine ja readme faili loomine
 Repos on 3 faili mida on vaja vastama:
-  Projektijuhtimise küsimustega fail
-  Versioonihaldussüsteemi kohta küsimusega fail
-  Eriala kohta küsimusega fail
+  Projektijuhtimise küsimustega fail</br>
+  Versioonihaldussüsteemi kohta küsimusega fail</br>
+  Eriala kohta küsimusega fail</br>
 
 <a href="#readme-top">Ülesse</a>
 
